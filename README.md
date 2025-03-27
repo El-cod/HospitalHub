@@ -55,11 +55,12 @@ The system presents an interactive menu allowing:
 8. Display all medical staff
 9. Display all researchers
 10. Search patient by ID
-11. Various testing options (operator overloading)
-12. Various testing options (operator overloading)
-13. Various testing options (operator overloading)
-14. Various testing options (operator overloading)
-15. Various testing options (operator overloading)
+11. Test Add Doctor to Hospital Operator (+=)
+12. Test Add Nurse to Hospital Operator (+=)
+13. Test Input Operator (>>)
+14. Test Add Staff to Department Operator (+=)
+15. Test Compare Researchers Operator (<)
+16. Exit
 
 ## Technical Features
 * Implementation of multiple inheritance (especially in the ResearcherDoctor class)
